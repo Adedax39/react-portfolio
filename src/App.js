@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react';
-import Home from './Pages/Home/Homescreen';
+import Home from './Pages/Home/Homescreen/index';
 //import {BrowserRouter as Router, Route, Routes} from "react-router-dom";
 
 
