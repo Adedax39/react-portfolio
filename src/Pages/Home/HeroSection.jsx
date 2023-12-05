@@ -13,12 +13,13 @@ function HeroSection(){
         Developer
        </h1>
        <p className="hero--section-description">
-       It is a long established fact that a reader will be distracted by
+       I'm a Software Engineering student seeking of an internship where I can learn various techniques of It field
        <br />
-        the readable content of a page when looking at its layout.
+       To aquire an Software Engineering trainee that provides me hands-on experience in design and cinstruction to implement real life skills in filed of IT.
        </p>
        </div>
-       <button className = "btn btn-primary">Get In Touch</button>
+       <a href="https://www.canva.com/design/DAFs5wXLx3U/OZpFbP9RuuMj9Rh3Nzc_dQ/edit?utm_content=DAFs5wXLx3U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="blank">
+       <button className = "btn btn-primary">Get In Touch/CV</button></a>
     </div>
     <div className="hero--section--img">
         <img src="./img/hero_img.png" alt="Hero Section" />
