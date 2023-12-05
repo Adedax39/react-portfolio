@@ -31,23 +31,26 @@
       {
         "id": "1",
         "src": "./img/placeholder-image.png",
-        "title": "Ahuse",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "link": "View In Github"
+        "title": "Tindog Web Appliaction(Front end)",
+        "description": "A web application that works as a platform to breed dogs an find partners for dogs",
+        "link": "View In Github",
+        "a": "https://adedax39.github.io/tindog/"
       },
       {
         "id": "2",
         "src": "./img/placeholder-image-1.png",
-        "title": "App Dashboard",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "link": "View In Github"
+        "title": "Keeper App",
+        "description": "Keeper is an app to create notes and delete them similar product as the google keep.",
+        "link": "View In Github",
+        "a": "https://github.com/Adedax39/Keeper.git"
       },
       {
         "id": "3",
-        "src": "./img/placeholder-image-2.png",
-        "title": "Easy Rentn",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "link": "View In Github"
+        "src": "./img/placeholder-image-2.jpg",
+        "title": "Vitrual Drum set",
+        "description": "Used Tools - HTML/CSS/Javascript",
+        "link": "View In Github",
+        "a": "https://adedax39.github.io/DrumASet/"
       }
     ]
   }
