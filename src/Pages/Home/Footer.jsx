@@ -6,7 +6,7 @@ function Footer() {
     <footer className="footer--container">
       <div className="footer--link--container">
         <div>
-          <img src="./img/logo.svg" alt="Logoipsum" />
+          <h3>Adedax39</h3>
         </div>
         <div className="footer--items">
           <ul>
@@ -49,26 +49,13 @@ function Footer() {
                 About Me
               </Link>
             </li>
-            <li>
-              <Link
-                activeClass="navbar--active-content"
-                spy={true}
-                smooth={true}
-                offset={-70}
-                duration={500}
-                to="Contact"
-                className="text-md"
-              >
-                Contact
-              </Link>
-            </li>
           </ul>
         </div>
         <div className="footer--social--icon">
           <ul>
             <li>
               <a
-                href="https://www.facebook.com/"
+                href="https://web.facebook.com/profile.php?id=100084492675823"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -112,7 +99,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.twitter.com/"
+                href="https://twitter.com/adeda39x"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -133,7 +120,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.linkedin.com/"
+                href="www.linkedin.com/in/lasath39"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
