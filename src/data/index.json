@@ -4,25 +4,27 @@
         "id": "1",
         "src": "./img/product-chain-1.png",
         "title": "Front-End",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "Mastery in HTML, CSS, and JavaScript, coupled with proficiency in Bootstrap and jQuery for seamless, responsive designs. Specialized in React.js framework, delivering dynamic and engaging user interfaces for modern web applications."
       },
       {
         "id": "2",
         "src": "./img/tag-1.png",
         "title": "Back-End",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "Basic Knowledge in Node.js and Express.js, with EJS templating for dynamic web content. Leveraging SQL for robust database management, ensuring scalable and efficient back-end solutions."
+
+        
       },
       {
         "id": "3",
         "src": "./img/feather-pen-2.png",
         "title": "UI & UX Design",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "Fluent in Figma and Canva, I bring a meticulous approach to crafting intuitive and visually appealing user interfaces. My design skills focus on creating seamless user experiences, blending functionality with aesthetics for impactful digital solutions."
       },
       {
         "id": "4",
         "src": "./img/feather-pen-1.png",
-        "title": "Webflow Development",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "title": "Github",
+        "description": "Adept at showcasing coding prowess on GitHub, I demonstrate version control mastery, collaborative project contributions, and a commitment to clean, well-documented code. My repositories reflect a journey of continuous learning and a passion for delivering high-quality software solutions."
       }
     ],
     "portfolio": [
